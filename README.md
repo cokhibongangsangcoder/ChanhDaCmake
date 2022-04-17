@@ -1,0 +1,2 @@
+# ChanhDaCmake
+practice cmake
